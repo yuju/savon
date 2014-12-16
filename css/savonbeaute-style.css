@@ -1,0 +1,188 @@
+body {
+	background: url("../img/background.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+#content {
+	width: 1000px;
+	min-height: 1000px;
+	margin: auto;
+	padding: 5px;
+	background: rgba(0%, 0%, 0%, 0.4);
+	border-radius: 10px;
+}
+
+#header {
+    text-align:center; 
+	color:white;
+    width: 990px;
+    height: 200px;
+	display : block;
+	margin:5px
+}
+#header-logo{
+    float: left;
+    width:320px;
+    height:160px;
+	margin: auto;
+	display : block;
+}
+#logo{
+    float:Left;
+    width:300px;
+    height:150px;
+	margin-top:1px;
+	Padding:5px
+}
+#header-center{
+    float:left;
+    width:440px;
+    height:160px;
+	margin:auto;
+    display : inline-block;
+	padding-top: 0px;
+}
+#header-right{
+    float:right;
+    width:230px;
+    height:160px;
+	margin:auto;
+    display : inline-block;
+	padding-top: 0px;
+}
+#header-center h1 {
+	left:-50px
+	color:white;
+    font-family:verdana;
+}
+
+#header-center h3 {
+    color:white;
+    font-family:verdana;
+	display : inline-block;
+	margin-top: 0px;
+    margin-bottom: 0px;
+}
+#header-line{
+    style:solid;
+	width:50px;
+    Size:10;	
+	color:white; 
+    display : inline-block;
+}
+#header-right-inside{
+    background-color:#E2EFEE;
+	float:right;
+    width:220px;
+    height:23px;
+	margin:auto;
+    display : inline-block;
+	padding-top: 0px;
+	border-radius: 10px;
+}
+#header-right-inside h5{
+    color:#036803;
+    font-family:verdana;
+	display : inline-block;
+	margin-top: 0px;
+    margin-bottom: 0px;
+}
+#header-right-down{
+	float:right;
+    width:100px;
+    height:50px;
+	margin:auto;
+    display : inline-block;
+	padding-top: 0px;
+}
+#icon-facebook{
+	width : 100px;
+	height: 35px;
+margin-top: 95px;
+}
+#icon-french{
+	width : 50px;
+	height: 25px;
+	margin-left: -25px;
+    margin-top: 15px;
+}
+#icon-english{
+	float : right;
+	width : 50px;
+	height: 25px;
+	margin-top: 15px;
+}
+	
+}
+nav {
+	background-color: #CCCCFF;
+	text-align: left;
+}
+
+.header-nav{
+    display: block;
+    width: 900px;
+	margin-left: 75px;
+}
+
+.nav-vertical{
+    display: inline-block;
+	width: 200px;
+	background-color: #CCCCFF;
+}
+
+nav ul {
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+
+nav.header-nav li {
+	color: #fff;
+	background-color: #808080;
+	display: inline-block;
+	line-height: 20px;
+	border-radius: 5px;
+	line-width: 40px;
+	padding: 5px;
+}
+
+nav.nav-vertical li {
+	color: #fff;
+	background-color: #808080;
+	line-height: 20px;
+	border-radius: 5px;
+	line-width: 40px;
+	margin-bottom : 2px;
+	padding: 5px;
+}
+
+nav li:hover{
+    background-color: #ccff99;
+}
+
+nav a{
+	color: #fff;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+section {
+    background-color: #808080;
+    width: 750px;
+    min-height: 500px;
+    display: inline-block;
+}
+
+#img-photo{
+	float:left;
+	width : 120px;
+	height :150px;
+}
+
+#icon-facebook{
+	float : right;
+	width : 100px;
+	height: 35px;
+}
+
